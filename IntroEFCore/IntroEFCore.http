@@ -1,0 +1,6 @@
+@IntroEFCore_HostAddress = http://localhost:5213
+
+GET {{IntroEFCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
